@@ -14,14 +14,6 @@
     src: url(fontes/Captain\ Redemption.ttf);
 }
 body {background-image: url(imagens/esseeee.jpg);}
-
-
-
-
-
-
-
-
 :root {--fonte1:'principal'; --fonte2: 'maquina';--fonte3: 'normal'}
 
 header > h1 {font-family:var(--fonte1); font-size: 5em;font-weight: lighter;}
